@@ -49,7 +49,7 @@ class Post extends Component {
             return (
             <div>
                 <h4>{this.props.info.title}</h4>
-                <Image fluid rounded="true" src={this.props.info.url} />
+                <Image width="100%" rounded="true" src={this.props.info.url} />
                 <Container className="mt-2 mb-3">
                     <Row>
                         <Col auto><h5>{this.props.info.date}</h5></Col>
