@@ -6,8 +6,7 @@ I chose to build it using create-react-app and style it with react-bootstrap. Ad
 
 To add some additional functionality, I created a date input which allows users to choose which Picture of the Day they'd like to see. 
 
-Finally, I deployed the site using Heroku. The deployed version is accessible at this link: https://sb-spacestagram.herokuapp.com/
-
+Finally, I deployed the site using Heroku. 
 
 # Getting Started with Create React App
 
